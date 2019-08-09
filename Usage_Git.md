@@ -50,6 +50,8 @@
 | git pull | GITHUB-->USER | Remote Repository의 정보를 USER에 있는 .GIT에 옮깁니다. |
 | git clone | GITHUB-->USER | Remote Reposiory를 복사해서 USER에 붙여넣습니다. |
 
+git pull origin branchname --allow-unrelated-histories
+
 <hr>
 
 ### Branch
