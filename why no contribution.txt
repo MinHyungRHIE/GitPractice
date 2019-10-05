@@ -1,3 +1,0 @@
-Commit was not made in the default or gh-pages branch
-Commits are only counted if they are made in the default branch (usually master) or the gh-pagesbranch (for repositories with Project Pages sites ). 
-If your commits are in a non-default or non-gh-pages branch and you'd like them to count toward your contributions
