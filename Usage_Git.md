@@ -71,3 +71,8 @@ git pull origin branchname --allow-unrelated-histories
 
 [1]:https://learngitbranching.js.org/
 
+### Useful
+
+```git
+git rm --cached .vscode/settings.json
+```
