@@ -86,7 +86,7 @@ git config --global user.email
 ```git
 git config --global --unset-all user.name
 git config --global --unset-all user.email
-git config --global --unset-all credential.helper
+git config --system --unset-all credential.helper
 ```
 
 ```git
