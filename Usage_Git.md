@@ -81,6 +81,8 @@ git rm --cached .vscode/settings.json
 ```git
 git config --global user.name
 git config --global user.email
+git config credential.helper store
+<!-- git config --global credential.helper 'cache --timeout 3600' -->
 ```
 
 ```git
