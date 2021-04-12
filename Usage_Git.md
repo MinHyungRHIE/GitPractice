@@ -76,3 +76,19 @@ git pull origin branchname --allow-unrelated-histories
 ```git
 git rm --cached .vscode/settings.json
 ```
+#### * configuration
+
+```git
+git config --global user.name
+git config --global user.email
+```
+
+```git
+git config --global --unset-all user.name
+git config --global --unset-all user.email
+git config --global --unset-all credential.helper
+```
+
+```git
+git commit -m 'rebuild pages' --allow-empty
+```
